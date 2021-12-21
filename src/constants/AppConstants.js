@@ -37,7 +37,7 @@ export const COLORS = {
     TRANSPARENT_LIGHT_GREY: 'rgba(0, 0, 0, 0.05)'
 }
 
-export const BASE_URL = 'https://ea4b-2400-adc5-142-f500-2d0d-54af-4a2d-9f46.ngrok.io'
+export const BASE_URL = 'http://46.101.127.102:3000'
 
 export const MESSAGES = {
     ACCOUNT_EXISTS: 'Account Already Exists',
